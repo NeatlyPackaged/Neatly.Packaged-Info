@@ -1,5 +1,5 @@
 # <!-- Header content -->
-![Box's Banner](https://raw.githubusercontent.com/Aestrus/Aestrus/main/assets/AestrusHeader.png "Header")
+![Box's Banner](https://raw.githubusercontent.com/NeatlyPackaged/Profile/main/NEWBGSideLogo.png "NeatlyPackagedLogo")
 
 # Hi, I'm Luke Brown ![visitors](https://visitor-badge.glitch.me/badge?page_id=NeatlyPackaged.NeatlyPackaged&left_color=gray&right_color=orange)
 
